@@ -1,2 +1,11 @@
 # projeto-resturante
-Um projeto básico para um cadastro simples de um restaurante, podendo cadastrar o restaurante, lista o nome dos restaurantes cadastrados e alternar o estado do restaurante como ativo ou desativado.
+Sistema de gerenciamento de restaurantes desenvolvido em Python durante meus estudos de programação e lógica computacional.
+O projeto funciona através do terminal e permite cadastrar restaurantes, listar os estabelecimentos cadastrados e alterar o status de funcionamento de cada restaurante.
+
+Autor
+
+Bruno Gabriel Alves Luiz
+
+Estudante de Engenharia de Software | Desenvolvedor Back-End em formação
+
+GitHub: https://github.com/bgabrielcode
